@@ -6,12 +6,3 @@ const openinfo = [{
     charNow = "https://i.ibb.co/FXJJJ6J/Ephnel-Character-Art.png",
 }];
 
-document.getElementById("jsrlauncher-ver").innerHTML = `
- ${openinfo.launcherVer}
-`;
-document.getElementById("jsrlauncher-author").innerHTML = `
- ${openinfo.launcherAuthor}
-`;
-document.getElementById("jsrlauncher-name").innerHTML = `
- ${openinfo.launcherName}
-`;
