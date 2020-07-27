@@ -1,5 +1,5 @@
 let openinfo = {
-        launcherVer: "beta 0.1",
+        launcherVer: "beta 0.2",
         launcherAuthor: "TheFunnyDay",
         launcherName: "JSR Launcher",
         bgNow: "https://i.ibb.co/NpBsGrz/background.jpg",
